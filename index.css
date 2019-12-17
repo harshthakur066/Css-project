@@ -8,13 +8,15 @@
 
 .main {
     padding-top: 2.2%;
+    background-image: url(https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .header {
-    background-color: rgba(95, 158, 160, 0.411);
-    position: absolute;
-    top: 10%;
-    left: 40%;
+    padding-top: 20% ;
+    /* background-color: rgba(95, 158, 160, 0.411); */
+    height: 500px;
     color: rgb(231, 231, 231);
     /* margin-bottom: 4%; */
     text-align: center;
